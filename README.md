@@ -1,9 +1,7 @@
 # 🛡️ Ayush Singh - Cybersecurity Professional & Ethical Hacker
 
 [![GitHub followers](https://img.shields.io/github/followers/Ayush1234-coder-sketch?label=followers&style=social)](https://github.com/Ayush1234-coder-sketch)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ayush_security?style=social)](https://twitter.com/ayush_security)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-singh-cybersecurity/)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=flat&logo=hackthebox)](https://app.hackthebox.com/profile/ayush1234)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-singh-67050b333/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayush1234-coder-sketch&color=blue)
 [![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-green?style=flat)](mailto:ayushsingh731055526@gmail.com)
@@ -177,7 +175,7 @@ Bash        ████████████░░░░░░░░░ 60% 
 📧 **Email:** [ayushsingh731055526@gmail.com](mailto:ayushsingh731055526@gmail.com)
 
 ### **Professional Networks:**
-💼 **LinkedIn:** [Ayush Singh - Cybersecurity](https://www.linkedin.com/in/ayush-singh-cybersecurity/)  
+💼 **LinkedIn:** [Ayush Singh - Cybersecurity](https://www.linkedin.com/in/ayush-singh-67050b333/)  
 🐦 **Twitter/X:** [@ayush_security](https://twitter.com/ayush_security)  
 🏆 **HackTheBox:** [Ayush1234](https://app.hackthebox.com/profile/ayush1234)  
 💻 **GitHub:** [@Ayush1234-coder-sketch](https://github.com/Ayush1234-coder-sketch)  
